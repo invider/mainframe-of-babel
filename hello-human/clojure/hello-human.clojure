@@ -1,0 +1,5 @@
+#!/usr/bin/env clojure
+
+(println "Hello, Human!")
+(println "We come in peace.")
+
