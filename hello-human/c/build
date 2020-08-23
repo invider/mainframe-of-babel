@@ -1,0 +1,3 @@
+#!/bin/sh
+gcc hello-human.c -o hello-human
+
